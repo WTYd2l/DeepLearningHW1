@@ -1,2 +1,2 @@
 # DeepLearningHW1
-deep learning trainning section
+Please see pdf to get more details
